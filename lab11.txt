@@ -1,0 +1,19 @@
+Using Visual Studio Code and React Native
+
+Homework01
+- use Visual Studio Code autoformat tool for correct spacing
+- added documentation to App.js
+- corrected indentation on the view of the textinputs and picker
+
+Homework02
+- use Visual Studio Code autoformat tool for correct spacing
+- deleted extra unnecessary code that was commented out
+- changed format of comments
+- added details to comments on title and homescreen code
+
+Homework03
+- use Visual Studio Code autoformat tool for correct spacing
+- changed comment format
+- corrected indentation inside the main view of the screen section
+- added empty lines between each item in the view to make code more readable
+
