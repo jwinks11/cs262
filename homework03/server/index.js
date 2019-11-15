@@ -2,6 +2,9 @@ const express = require('express')
 const bodyParser = require('body-parser')
 const app = express()
 const db = require('./queries')
+/**
+ * set port as 3000 to experiment with the database
+ */
 const port = 3000
 
 app.use(bodyParser.json())
